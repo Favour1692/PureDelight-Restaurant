@@ -27,9 +27,9 @@ export default function Mode() {
       className="z-100"
     >
       {isDark ? (
-        <LuSun className="h-5 w-5 font-bold text-6xl text-lightfont" />
+        <LuSun className="text-8xl font-bold text-lightfont" />
       ) : (
-        <LuMoon className="h-5 w-5 text-burgundry font-bold text-6xl" />
+        <LuMoon className="text-8xl text-burgundry font-bold" />
       )}
     </Button>
   );
