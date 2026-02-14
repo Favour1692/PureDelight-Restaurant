@@ -15,8 +15,8 @@ import AosInit from "@/components/AosInit";
 import PreloadImage from "./PreloadImage";
 
 export const metadata: Metadata = {
-  title: "Nexure Agency",
-  description: "A website for a business agency company",
+  title: "Pure Delight",
+  description: "A website for a high-end fine dining restaurant",
 };
 
 export default function RootLayout({
