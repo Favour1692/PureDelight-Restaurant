@@ -62,12 +62,12 @@ const Navbar = () => {
             {open ? (
               <IoMdClose
                 onClick={handleClick}
-                className="z-100 lg:hidden text-burgundry dark:text-dimburgundry font-bold text-xl"
+                className="z-100 lg:hidden text-burgundry dark:text-dimburgundry font-bold text-2xl"
               />
             ) : (
               <FiMenu
                 onClick={handleClick}
-                className="z-100 lg:hidden text-burgundry dark:text-dimburgundry font-bold text-xl"
+                className="z-100 lg:hidden text-burgundry dark:text-dimburgundry font-bold text-2xl"
               />
             )}
           </div>
