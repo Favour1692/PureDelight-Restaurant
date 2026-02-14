@@ -71,6 +71,7 @@ const Footer = () => {
             <p>
               &copy; {new Date().getFullYear()} PureDelight. All rights reserved
             </p>
+            <p>site created by Favour😊</p>
           </div>
         </div>
       </div>
